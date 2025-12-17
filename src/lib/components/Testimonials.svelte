@@ -1,8 +1,8 @@
 <section class="py-24 bg-white">
   <div class="container-custom">
     <div class="text-center mb-16">
-        <p class="text-[10px] font-bold tracking-[0.2em] text-gray-400 uppercase mb-4">Fast growing companies love Plain</p>
-        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight">Take their word for it</h2>
+        <p class="text-[10px] font-bold tracking-[0.2em] text-gray-400 uppercase mb-4">Trusted by healthcare facilities nationwide</p>
+        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight">Hear from our partners</h2>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">

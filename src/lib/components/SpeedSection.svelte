@@ -16,48 +16,47 @@
 
   <div class="container-custom relative z-10">
     <div class="text-center max-w-3xl mx-auto mb-20">
-        <h2 class="text-4xl md:text-6xl font-bold tracking-tight mb-6">Speed, meet power.</h2>
+        <h2 class="text-4xl md:text-6xl font-bold tracking-tight mb-6">Built for healthcare. Built to scale.</h2>
         <p class="text-lg md:text-xl text-gray-400 leading-relaxed">
-            We get it. When you're comparing platforms, they all look the same. We'll make it easy for you. Here's why, and when, we win.
+            We understand healthcare staffing is different. Here's why facilities and workers choose Clipboard Health over traditional agencies.
         </p>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-x-16 gap-y-12">
         <!-- Row 1 -->
         <div class="border-t border-gray-800 pt-8">
-            <h3 class="text-sm font-bold text-gray-400 uppercase tracking-widest mb-4">When you need performance and scale</h3>
+            <h3 class="text-sm font-bold text-gray-400 uppercase tracking-widest mb-4">Proven reliability at scale</h3>
         </div>
         <div class="border-t border-gray-800 pt-8">
             <p class="text-gray-300 leading-relaxed">
-                Plain is designed for work, not to feel like work. Every aspect of the Plain interface has been forged, stress-tested and iterated on by and with some of the fastest-growing, and most demanding support teams in the world. They love it, and we think you will too.
+                Over 1.3 million shifts filled. 95% fill rate with 24+ hour lead time. 90% perfect attendance. We've scaled from 6 team members to 950+ across 60 countries while maintaining operational excellence. Our marketplace works because we obsess over quality and reliability.
             </p>
         </div>
 
         <!-- Row 2 -->
         <div class="border-t border-gray-800 pt-8">
-            <h3 class="text-sm font-bold text-gray-400 uppercase tracking-widest mb-4">When you demand complete extensibility</h3>
-            <a href="#" class="text-green-500 text-xs font-bold uppercase tracking-wide hover:text-green-400 mt-2 inline-block">Learn about our API</a>
+            <h3 class="text-sm font-bold text-gray-400 uppercase tracking-widest mb-4">Mission-driven, worker-focused</h3>
         </div>
         <div class="border-t border-gray-800 pt-8">
             <p class="text-gray-300 leading-relaxed">
-                We give you flexible building blocks, not rigid opinions. Plain is API-first, so everything you see in the product can be done programmatically. Extend workflows, automate the edge cases, or replace entire pieces with your own logic. If you can imagine it, you can ship it.
+                We're on a mission to lift people up the socioeconomic ladder. Our platform empowers predominantly Black, Latina, and Filipino women healthcare workers with flexible schedules, competitive pay, and instant payment. When workers thrive, facilities get better care.
             </p>
         </div>
 
         <!-- Row 3 -->
         <div class="border-t border-gray-800 pt-8">
-            <h3 class="text-sm font-bold text-gray-400 uppercase tracking-widest mb-4">When you want to enjoy the buying process</h3>
+            <h3 class="text-sm font-bold text-gray-400 uppercase tracking-widest mb-4">Backed by world-class investors</h3>
         </div>
         <div class="border-t border-gray-800 pt-8">
             <p class="text-gray-300 leading-relaxed">
-                Seriously. People often choose us because working together feels straightforward. We know you are not switching platforms all day because you love it. So we focus on clarity, honest guidance and removing friction. Our sales team knows the product deeply and works with you to get to a yes or no quickly, whichever is right.
+                $80M raised from Sequoia and IVP. Valued at $1.3B. Profitable since 2022. We're not just another startup—we're building the future of healthcare staffing with the backing and resources to do it right.
             </p>
         </div>
     </div>
 
     <div class="text-center mt-20">
-        <p class="text-2xl md:text-3xl font-bold text-white mb-2">Start fast. Scale fearlessly.</p>
-        <p class="text-gray-400">Plain isn't just faster, it's built to last.</p>
+        <p class="text-2xl md:text-3xl font-bold text-white mb-2">Reliable staffing. Happy workers. Better care.</p>
+        <p class="text-gray-400">Join the healthcare staffing revolution.</p>
     </div>
   </div>
 </section>

@@ -5,16 +5,18 @@
       <!-- Card 1 -->
       <div class="bg-plain-dark-secondary rounded-2xl p-8 border border-gray-800 hover:border-gray-700 transition-colors group">
         <div class="h-40 mb-8 flex items-center justify-center relative">
-            <!-- Icons Grid -->
-            <div class="grid grid-cols-4 gap-3 opacity-60 group-hover:opacity-100 transition-opacity">
-                {#each Array(8) as _}
-                <div class="w-8 h-8 rounded bg-gray-800 border border-gray-700"></div>
-                {/each}
+            <!-- Clock Icon -->
+            <div class="relative">
+                <svg width="80" height="80" viewBox="0 0 24 24" fill="none" class="text-plain-green opacity-60 group-hover:opacity-100 transition-opacity">
+                    <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/>
+                    <path d="M12 6V12L16 14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                </svg>
+                <div class="absolute -top-2 -right-2 w-6 h-6 bg-plain-green rounded-full flex items-center justify-center text-black font-bold text-xs">⚡</div>
             </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Scale every channel</h3>
+        <h3 class="text-xl font-bold text-white mb-3">Instant Matching</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Connect and scale Slack, Microsoft Teams, Discord, portal, email, chat, forms and more with the fastest support inbox ever built.
+          Post a shift and get matched with qualified healthcare workers in minutes. Our automated marketplace works 24/7 to fill your staffing needs instantly.
         </p>
       </div>
 
@@ -33,12 +35,12 @@
             
             <!-- Tooltip-like badge -->
             <div class="absolute top-10 bg-white text-black text-[10px] font-bold px-2 py-1 rounded shadow-lg transform translate-x-4">
-                Negative shift
+                95% Fill Rate
             </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Understand every customer</h3>
+        <h3 class="text-xl font-bold text-white mb-3">Unmatched Reliability</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Drive product and revenue. Automatically surface product themes, customer trends, and churn signals.
+          95% fill rate with 24+ hour lead time. 90% perfect attendance. Say goodbye to no-shows and last-minute cancellations that disrupt your operations.
         </p>
       </div>
 
@@ -46,17 +48,17 @@
       <div class="bg-plain-dark-secondary rounded-2xl p-8 border border-gray-800 hover:border-gray-700 transition-colors group">
         <div class="h-40 mb-8 flex flex-col items-center justify-center gap-3">
              <div class="flex gap-2">
-                 <div class="px-3 py-1 bg-green-600 text-white text-xs rounded font-medium">Summarize thread</div>
-                 <div class="px-3 py-1 bg-green-600/20 text-green-400 border border-green-600/30 text-xs rounded font-medium">Send docs</div>
+                 <div class="px-3 py-1 bg-green-600 text-white text-xs rounded font-medium">$58/hour</div>
+                 <div class="px-3 py-1 bg-green-600/20 text-green-400 border border-green-600/30 text-xs rounded font-medium">Instant Pay</div>
              </div>
              <div class="flex gap-2">
-                 <div class="px-3 py-1 bg-green-600/20 text-green-400 border border-green-600/30 text-xs rounded font-medium">Diagnose issue</div>
-                 <div class="px-3 py-1 bg-green-600/20 text-green-400 border border-green-600/30 text-xs rounded font-medium">Draft reply</div>
+                 <div class="px-3 py-1 bg-green-600/20 text-green-400 border border-green-600/30 text-xs rounded font-medium">Flexible Schedule</div>
+                 <div class="px-3 py-1 bg-green-600/20 text-green-400 border border-green-600/30 text-xs rounded font-medium">Choose Shifts</div>
              </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Empower every team member</h3>
+        <h3 class="text-xl font-bold text-white mb-3">Empower Healthcare Workers</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Supercharge your team with AI built for B2B. Triage queries, engage customers, and investigate technical queries with accuracy.
+          Workers earn an average of $54/hour with instant pay after every shift. Complete flexibility to choose when and where they work. Top earners make $11.8K/month.
         </p>
       </div>
 

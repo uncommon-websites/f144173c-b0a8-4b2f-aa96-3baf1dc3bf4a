@@ -30,10 +30,10 @@
         <!-- Floating Overlay Text -->
         <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-2xl text-center px-4">
             <h2 class="text-3xl md:text-5xl font-bold tracking-tight text-white mb-6 drop-shadow-lg">
-                Plain orchestrates your support
+                Instant matching. Zero hassle.
             </h2>
             <p class="text-lg text-gray-300 leading-relaxed drop-shadow-md">
-                Connect your channels. Orchestrate every conversation. Get smarter with each interaction, all inside one unified workspace built to scale intelligently with you.
+                Our automated marketplace connects qualified healthcare workers with facilities in real-time. Post a shift, get matched instantly, and say goodbye to staffing headaches.
             </p>
         </div>
     </div>
